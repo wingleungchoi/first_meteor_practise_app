@@ -11,3 +11,9 @@ iron:router
 sacha:spin
 ian:accounts-ui-bootstrap-3
 accounts-password
+wingleungchoi:errors
+reactive-var
+rss
+http
+bitly
+percolatestudio:percolatestudio-migrations
